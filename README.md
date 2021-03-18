@@ -36,6 +36,6 @@ More detailed answers to these questions can be found in the [Notebook](https://
 
 ## Acknowledgements 
 
-[[NeurIPS 2020] Data Science for COVID-19 (DS4C) | Kaggle](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-[Korea (Rep.): Städte — Einwohnerzahlen, Karten, Grafiken, Wetter und Web-Informationen (citypopulation.de)](https://www.citypopulation.de/de/southkorea/cities/)
-[South Korea struggling to control resurgence of coronavirus | Asia| An in-depth look at news from across the continent | DW | 28.08.2020](https://www.dw.com/en/south-korea-struggles-with-coronavirus/a-54727852)
+- [[NeurIPS 2020] Data Science for COVID-19 (DS4C) | Kaggle](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+- [Korea (Rep.): Städte — Einwohnerzahlen, Karten, Grafiken, Wetter und Web-Informationen (citypopulation.de)](https://www.citypopulation.de/de/southkorea/cities/)
+- [South Korea struggling to control resurgence of coronavirus | Asia| An in-depth look at news from across the continent | DW | 28.08.2020](https://www.dw.com/en/south-korea-struggles-with-coronavirus/a-54727852)
